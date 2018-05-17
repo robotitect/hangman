@@ -1,0 +1,14 @@
+--- !ruby/object:Game
+incorrect_guesses: 6
+game_word: sovietism
+overall_guess: ____et__m
+guessed_letters:
+- e
+- f
+- k
+- c
+- l
+- m
+- n
+- t
+- r
